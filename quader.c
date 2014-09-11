@@ -1,7 +1,4 @@
 #include"quader.h"
-#include"quader_auswahl.h"
-#include"quader_berechnung_volumen.h"
-#include"quader_ausgabe_volumen.h"
 
 void quader()
 {

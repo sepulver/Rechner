@@ -3,6 +3,7 @@
 #include"prozent_zins_auswahl.h"
 #include"weg_zeit_geschwindigkeit_auswahl.h"
 #include"rechner_auswahl.h"
+#include"bildschirmloeschen.h"
 
 int main()
 {

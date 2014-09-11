@@ -114,9 +114,3 @@ void ausgabe_division()
 
     printf("\n%.2lf / %.2lf = %.2lf", zahl1, zahl2, berechnung_division(zahl1, zahl2));
 }
-
-void bildschirmloeschen()
-{
-    getch();
-    system("cls");
-}

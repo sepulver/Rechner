@@ -17,26 +17,6 @@ void ausgabe_umfang_kreis();
 double berechnung_durchmesser_kreis(double radius);
 void ausgabe_durchmesser_kreis();
 
-void berechnung_kegel();
 
-int auswahl_berechnung_kegel(int auswahlkegel);
 
-double einlesen_radius_kegel(double radius);
-double einlesen_hoehe_kegel(double hoehe);
 
-double berechnung_grundflaeche_kegel(double radius);
-void ausgabe_grundflaeche_kegel();
-
-double berechnung_volumen_kegel(double radius, double hoehe);
-void ausgabe_volumen_kegel();
-
-double berechnung_seitenhoehe_kegel(double radius, double hoehe);
-void ausgabe_seitenhoehe_kegel();
-
-double berechnung_mantelflaeche_kegel(double radius, double hoehe);
-void ausgabe_mantelflaeche_kegel();
-
-double berechnung_oberflaeche_kegel(double radius, double hoehe);
-void ausgabe_oberflaeche_kegel();
-
-void bildschirmloeschen();

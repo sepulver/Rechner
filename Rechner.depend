@@ -1,18 +1,18 @@
 # depslib dependency file v1.0
-1410419555 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\grundrechenarten_auswahl.c
+1410426197 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\grundrechenarten_auswahl.c
 	"grundrechenarten_auswahl.h"
 
-1410422548 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\grundrechenarten_auswahl.h
+1410426214 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\grundrechenarten_auswahl.h
 
 1410419402 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\grundrechenarten_main.c
 	"grundrechenarten_auswahl.h"
 
-1410424013 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\koerper_auswahl.c
+1410425900 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\koerper_auswahl.c
 	"koerper_auswahl.h"
 
-1410422531 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\koerper_auswahl.h
+1410426162 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\koerper_auswahl.h
 
-1410424047 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\koerper_main.c
+1410425469 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\koerper_main.c
 	"koerper_auswahl.h"
 	"quader.h"
 
@@ -34,12 +34,13 @@
 	<conio.h>
 	<math.h>
 
-1410420656 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\rechner_main.c
+1410426155 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\rechner_main.c
 	"grundrechenarten_auswahl.h"
 	"koerper_auswahl.h"
 	"prozent_zins_auswahl.h"
 	"weg_zeit_geschwindigkeit_auswahl.h"
 	"rechner_auswahl.h"
+	"bildschirmloeschen.h"
 
 1410422560 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\weg_zeit_geschwindigkeit_auswahl.h
 
@@ -76,11 +77,8 @@
 
 1410425388 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\quader.h
 
-1410425366 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\quader.c
+1410425938 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\quader.c
 	"quader.h"
-	"quader_auswahl.h"
-	"quader_berechnung_volumen.h"
-	"quader_ausgabe_volumen.h"
 
 1410424716 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\quader_ausgabe_volumen.h
 
@@ -118,4 +116,120 @@
 
 1410425274 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\quader_berechnung_oberflaeche.c
 	"quader_berechnung_oberflaeche.h"
+
+1410426122 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\bildschirmloeschen.c
+	"bildschirmloeschen.h"
+
+1410426144 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\bildschirmloeschen.h
+
+1410429368 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel.c
+	"kegel.h"
+
+1410430010 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel.h
+
+1410426351 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_einlesen_hoehe.c
+	"kegel_einlesen_hoehe.h"
+
+1410426373 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_einlesen_hoehe.h
+
+1410426274 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_einlesen_radius.c
+	"kegel_einlesen_radius.h"
+
+1410426306 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_einlesen_radius.h
+
+1410426541 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_ausgabe_grundflaeche.c
+	"kegel_ausgabe_grundflaeche.h"
+	"kegel_einlesen_radius.h"
+	"kegel_berechnung_grundflaeche.h"
+
+1410426564 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_ausgabe_grundflaeche.h
+
+1410426475 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_berechnung_grundflaeche.h
+
+1410426445 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_berechnung_grundflaeche.c
+	"kegel_berechnung_grundflaeche.h"
+
+1410426755 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_auswahl.c
+	"kegel_auswahl.h"
+
+1410426774 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_auswahl.h
+
+1410427072 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_berechnung_volumen.c
+	"kegel_berechnung_volumen.h"
+	"kegel_berechnung_grundflaeche.h"
+
+1410426872 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_berechnung_volumen.h
+
+1410427216 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_ausgabe_volumen.c
+	"kegel_ausgabe_volumen.h"
+	"kegel_einlesen_hoehe.h"
+	"kegel_einlesen_radius.h"
+	"kegel_berechnung_volumen.h"
+
+1410426970 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_ausgabe_volumen.h
+
+1410427613 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_ausgabe_seitenhoehe.c
+	"kegel_ausgabe_seitenhoehe.h"
+	"kegel_einlesen_hoehe.h"
+	"kegel_einlesen_radius.h"
+	"kegel_berechnung_seitenhoehe.h"
+
+1410427635 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_ausgabe_seitenhoehe.h
+
+1410427392 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_berechnung_seitenhoehe.h
+
+1410427365 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_berechnung_seitenhoehe.c
+	"kegel_berechnung_seitenhoehe.h"
+
+1410427961 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_ausgabe_mantelflaeche.c
+	"kegel_ausgabe_mantelflaeche.h"
+	"kegel_einlesen_radius.h"
+	"kegel_berechnung_grundflaeche.h"
+
+1410427988 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_ausgabe_mantelflaeche.h
+
+1410428168 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_berechnung_mantelflaeche.c
+	"kegel_berechnung_mantelflaeche.h"
+	"kegel_berechnung_seitenhoehe.h"
+
+1410427894 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_berechnung_mantelflaeche.h
+
+1410429600 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_einlesen_werte.c
+	"kegel_einlesen_werte.h"
+
+1410429670 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_einlesen_werte.h
+
+1410429920 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_grundflaeche.c
+	"kegel_grundflaeche.h"
+	"kegel_einlesen_werte.h"
+
+1410429499 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_grundflaeche.h
+
+1410429808 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_mantelflaeche.c
+	"kegel_mantelflaeche.h"
+	"kegel_seitenhoehe.h"
+	"kegel_einlesen_werte.h"
+
+1410429873 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_mantelflaeche.h
+
+1410430105 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_seitenhoehe.h
+
+1410429937 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_oberflaeche.c
+	"kegel_oberflaeche.h"
+	"kegel_grundflaeche.h"
+	"kegel_mantelflaeche.h"
+	"kegel_einlesen_werte.h"
+
+1410429328 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_oberflaeche.h
+
+1410430077 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_seitenhoehe.c
+	"kegel_seitenhoehe.h"
+	"kegel_einlesen_werte.h"
+
+1410430248 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_volumen.c
+	"kegel_volumen.h"
+	"kegel_grundflaeche.h"
+	"kegel_einlesen_werte.h"
+
+1410430289 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_volumen.h
 
