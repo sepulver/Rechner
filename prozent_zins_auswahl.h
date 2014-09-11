@@ -1,8 +1,3 @@
-#include<stdio.h>
-#include<conio.h>
-#include<stdlib.h>
-#include<math.h>
-
 void berechnung_prozent_zins();
 
 int auswahl_prozent_zins(int auswahlprozentzins);

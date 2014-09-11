@@ -13,7 +13,7 @@ void berechnung_koerper()
             break;
 
         case 2:
-            berechnung_quader();
+            quader();
             break;
 
         case 3:
@@ -114,111 +114,6 @@ void ausgabe_durchmesser_kreis()
     radius = einlesen_radius_kreis(radius);
 
     printf("Der Durchmesser betraegt: %.2lf", berechnung_durchmesser_kreis(radius));
-}
-
-void berechnung_quader()
-{
-    int auswahlquader, gewaehltquader;
-
-    gewaehltquader = auswahl_volumen_grundflaeche_oberflaeche_quader(auswahlquader);
-
-    switch(gewaehltquader)
-    {
-        case 1:
-            ausgabe_volumen_quader();
-            bildschirmloeschen();
-            break;
-        case 2:
-            ausgabe_grundflaeche_quader();
-            bildschirmloeschen();
-            break;
-
-        case 3:
-            ausgabe_oberflaeche_quader();
-            bildschirmloeschen();
-            break;
-    }
-}
-
-int auswahl_volumen_grundflaeche_oberflaeche_quader(int auswahlquader)
-{
-    printf("\nBitte waehlen:\n");
-    printf("1. Volumen \n2. Grundflaeche \n3. Oberflaeche\n\n");
-    scanf("%d", &auswahlquader);
-
-    return auswahlquader;
-}
-
-double einlesen_laenge(double laenge)
-{
-    printf("\nLaenge --> ");
-    scanf("%lf", &laenge);
-
-    return laenge;
-}
-
-double einlesen_breite(double breite)
-{
-    printf("Breite --> ");
-    scanf("%lf", &breite);
-
-    return breite;
-}
-
-double einlesen_hoehe(double hoehe)
-{
-    printf("Hoehe --> ");
-    scanf("%lf", &hoehe);
-
-    return hoehe;
-}
-
-double berechnug_volumen_quader(double laenge, double breite, double hoehe)
-{
-    return laenge * breite * hoehe;
-}
-
-void ausgabe_volumen_quader()
-{
-    double laenge, breite, hoehe;
-
-    laenge = einlesen_laenge(laenge);
-    breite = einlesen_breite(breite);
-    hoehe = einlesen_hoehe(hoehe);
-
-    printf("Volumen: %.2lf", berechnug_volumen_quader(laenge, breite, hoehe));
-}
-
-double berechnung_grundflaeche_quader(double laenge, double breite)
-{
-    return laenge * breite;
-}
-
-void ausgabe_grundflaeche_quader()
-{
-    double laenge, breite;
-
-    laenge = einlesen_laenge(laenge);
-    breite = einlesen_breite(breite);
-
-    printf("Grundflaeche: %.2lf", berechnung_grundflaeche_quader(laenge, breite));
-}
-
-double berechnung_oberflaeche_quader(double laenge, double breite, double hoehe)
-{
-    double Result = 2 * laenge * breite + 2 * laenge * hoehe + 2 * breite * hoehe;
-    return Result;
-}
-
-void ausgabe_oberflaeche_quader()
-{
-    double laenge, breite, hoehe;
-
-    laenge = einlesen_laenge(laenge);
-    breite = einlesen_breite(breite);
-    hoehe = einlesen_hoehe(hoehe);
-
-    printf("Oberflaeche: %.2lf", berechnung_oberflaeche_quader(laenge, breite, hoehe));
 }
 
 void berechnung_kegel()

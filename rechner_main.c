@@ -11,4 +11,6 @@ int main()
     auswahl_test();
 
     auswahl_berechnung(auswahl1);
+
+    return 0;
 }

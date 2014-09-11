@@ -1,8 +1,3 @@
-#include<stdio.h>
-#include<stdlib.h>
-#include<conio.h>
-#include<math.h>
-
 void berechnung_koerper();
 
 int auswahl_koerperberechnung(int auswahlkoerperberechnung);
@@ -21,23 +16,6 @@ void ausgabe_umfang_kreis();
 
 double berechnung_durchmesser_kreis(double radius);
 void ausgabe_durchmesser_kreis();
-
-void berechnung_quader();
-
-int auswahl_volumen_grundflaeche_oberflaeche_quader(int auswahlquader);
-
-double einlesen_laenge(double laenge);
-double einlesen_breite(double breite);
-double einlesen_hoehe(double hoehe);
-
-double berechnug_volumen_quader(double laenge, double breite, double hoehe);
-void ausgabe_volumen_quader();
-
-double berechnung_grundflaeche_quader(double laenge, double breite);
-void ausgabe_grundflaeche_quader();
-
-double berechnung_oberflaeche_quader(double laenge, double breite, double hoehe);
-void ausgabe_oberflaeche_quader();
 
 void berechnung_kegel();
 

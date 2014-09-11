@@ -1,4 +1,5 @@
 #include"koerper_auswahl.h"
+#include"quader.h"
 
 int koerper_main()
 {
@@ -24,7 +25,7 @@ int koerper_main()
     berechnung_durchmesser_kreis(radius);
     ausgabe_durchmesser_kreis();
 
-    berechnung_quader();
+    quader();
 
     auswahl_volumen_grundflaeche_oberflaeche_quader(auswahlquader);
 
@@ -62,6 +63,4 @@ int koerper_main()
 
     berechnung_oberflaeche_kegel(radius, hoehe);
     ausgabe_oberflaeche_kegel();
-
-    return 0;
 }
