@@ -1,8 +1,11 @@
-#include"quader_ausgabe_grundflaeche.h"
-#include"quader_berechnung_grundflaeche.h"
-#include"quader_einlesen_breite.h"
-#include"quader_einlesen_hoehe.h"
-#include"quader_einlesen_laenge.h"
+#include"quader_grundflaeche.h"
+#include"quader_einlesen_werte.h"
+
+
+double berechnung_grundflaeche_quader(double laenge, double breite)
+{
+    return laenge * breite;
+}
 
 void ausgabe_grundflaeche_quader()
 {

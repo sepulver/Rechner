@@ -1,4 +1,4 @@
-#include"weg_zeit_geschwindigkeit_auswahl.h"
+#include"wzg.h"
 
 void berechnung_weg_zeit_geschwindigkeit()
 {

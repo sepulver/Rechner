@@ -1,4 +1,4 @@
-#include"prozent_zins_auswahl.h"
+#include"prozent_zins.h"
 
 void berechnung_prozent_zins()
 {

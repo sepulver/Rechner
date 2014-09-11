@@ -1,4 +1,4 @@
-#include"rechner_auswahl.h"
+#include"rechner.h"
 
 void auswahl_test()
 {

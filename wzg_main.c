@@ -1,4 +1,4 @@
-#include"weg_zeit_geschwindigkeit_auswahl.h"
+#include"wzg.h"
 
 int weg_zeit_geschwindigkeit_main()
 {
@@ -22,7 +22,5 @@ int weg_zeit_geschwindigkeit_main()
 
     berechnung_weg(zeit, geschwindigkeit);
     ausgabe_weg();
-
-    return 0;
 }
 

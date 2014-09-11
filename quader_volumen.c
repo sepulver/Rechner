@@ -1,8 +1,10 @@
-#include"quader_ausgabe_volumen.h"
-#include"quader_berechnung_volumen.h"
-#include"quader_einlesen_breite.h"
-#include"quader_einlesen_hoehe.h"
-#include"quader_einlesen_laenge.h"
+#include"quader_volumen.h"
+#include"quader_einlesen_werte.h"
+
+double berechnug_volumen_quader(double laenge, double breite, double hoehe)
+{
+    return laenge * breite * hoehe;
+}
 
 void ausgabe_volumen_quader()
 {
@@ -14,3 +16,4 @@ void ausgabe_volumen_quader()
 
     printf("Volumen: %.2lf", berechnug_volumen_quader(laenge, breite, hoehe));
 }
+

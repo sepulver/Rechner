@@ -1,8 +1,11 @@
-#include"quader_ausgabe_oberflaeche.h"
-#include"quader_berechnung_oberflaeche.h"
-#include"quader_einlesen_breite.h"
-#include"quader_einlesen_hoehe.h"
-#include"quader_einlesen_laenge.h"
+#include"quader_oberflaeche.h"
+#include"quader_einlesen_werte.h"
+
+double berechnung_oberflaeche_quader(double laenge, double breite, double hoehe)
+{
+    double Result = 2 * laenge * breite + 2 * laenge * hoehe + 2 * breite * hoehe;
+    return Result;
+}
 
 void ausgabe_oberflaeche_quader()
 {
@@ -14,4 +17,5 @@ void ausgabe_oberflaeche_quader()
 
     printf("Oberflaeche: %.2lf", berechnung_oberflaeche_quader(laenge, breite, hoehe));
 }
+
 

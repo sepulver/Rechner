@@ -1,4 +1,4 @@
-#include"koerper_auswahl.h"
+#include"koerper.h"
 
 void berechnung_koerper()
 {
