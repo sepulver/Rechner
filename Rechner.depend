@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1410419555 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\grundrechenarten_auswahl.c
+	"grundrechenarten_auswahl.h"
+
+1410357739 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\grundrechenarten_auswahl.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<math.h>
+
+1410419402 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\grundrechenarten_main.c
+	"grundrechenarten_auswahl.h"
+
+1410419450 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\koerper_auswahl.c
+	"koerper_auswahl.h"
+
+1410362101 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\koerper_auswahl.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+
+1410419392 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\koerper_main.c
+	"koerper_auswahl.h"
+
+1410419453 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent_zins_auswahl.c
+	"prozent_zins_auswahl.h"
+
+1410417774 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent_zins_auswahl.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<math.h>
+
+1410419422 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent_zins_main.c
+	"prozent_zins_auswahl.h"
+
+1410419912 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\rechner_auswahl.c
+	"rechner_auswahl.h"
+
+1410419917 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\rechner_auswahl.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<conio.h>
+	<math.h>
+
+1410419888 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\rechner_main.c
+	"grundrechenarten_auswahl.h"
+	"koerper_auswahl.h"
+	"prozent_zins_auswahl.h"
+	"weg_zeit_geschwindigkeit_auswahl.h"
+	"rechner_auswahl.h"
+
+1410358944 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\weg_zeit_geschwindigkeit_auswahl.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<math.h>
+
+1410419555 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\weg_zeit_geschwindigkeit_auswahl.c
+	"weg_zeit_geschwindigkeit_auswahl.h"
+
+1410419602 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\weg_zeit_geschwindigkeit_main.c
+	"weg_zeit_geschwindigkeit_auswahl.h"
+
