@@ -14,7 +14,7 @@ void ausgabe_oberflaeche_kugel()
 {
     double radius;
 
-    radius = einlesen_radius(radius);
+    radius = einlesen_radius_kugel(radius);
 
     printf("\nDie Oberflaeche betraegt: %.2lf", berechnung_oberflaeche_kugel(radius));
 }

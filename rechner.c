@@ -1,6 +1,6 @@
 #include"rechner.h"
 
-void auswahl_test()
+void auswahl_rechner()
 {
     int auswahlberechnung, gewaehltberechnung;
     bool ende = false;
@@ -12,7 +12,7 @@ void auswahl_test()
         switch(gewaehltberechnung)
         {
         case 1:
-            grundrechenarten();
+            berechnung_grundrechenarten();
             break;
 
         case 2:
@@ -20,7 +20,7 @@ void auswahl_test()
             break;
 
        case 3:
-            berechnung_flaechen();
+            berechnung_flaeche();
             break;
 
         case 4:

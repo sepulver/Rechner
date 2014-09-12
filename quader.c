@@ -1,6 +1,6 @@
 #include"quader.h"
 
-void quader()
+void berechnung_quader()
 {
     int auswahlquader, gewaehltquader;
 
@@ -24,7 +24,7 @@ void quader()
     }
 }
 
-int auswahl_volumen_berechnung_quader(int auswahlquader)
+int auswahl_berechnung_quader(int auswahlquader)
 {
     printf("\nBitte waehlen:\n");
     printf("1. Volumen \n2. Grundflaeche \n3. Oberflaeche\n\n");

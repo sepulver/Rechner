@@ -1,33 +1,29 @@
-#include"koerper_auswahl.h"
-#include"quader.h"
+#include"koerper.h"
 
 int koerper_main()
 {
     double radius, laenge, breite, hoehe;
-    int auswahlkoerperberechnung, auswahlkreis, auswahlquader, auswahlkegel;
+    int auswahlkoerperberechnung, auswahlkugel, auswahlquader, auswahlkegel;
 
     berechnung_koerper();
 
     auswahl_koerperberechnung(auswahlkoerperberechnung);
 
-    berechnung_kreis();
+    berechnung_kugel();
 
-    auswahl_flaeche_umfang_durchmesser_kreis(auswahlkreis);
+    auswahl_berechnung_kugel(auswahlkugel);
 
-    einlesen_radius_kreis(radius);
+    einlesen_radius_kugel(radius);
 
-    berechnung_flaeche_kreis(radius);
-    ausgabe_flaeche_kreis();
+    berechnung_oberflaeche_kugel(radius);
+    ausgabe_oberflaeche_kugel();
 
-    berechnung_umfang_kreis(radius);
-    ausgabe_umfang_kreis();
+    berechnung_volumen_kugel(radius);
+    ausgabe_volumen_kugel();
 
-    berechnung_durchmesser_kreis(radius);
-    ausgabe_durchmesser_kreis();
+    berechnung_quader();
 
-    quader();
-
-    auswahl_volumen_grundflaeche_oberflaeche_quader(auswahlquader);
+    auswahl_berechnung_quader(auswahlquader);
 
     einlesen_laenge(laenge);
     einlesen_breite(breite);

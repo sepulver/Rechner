@@ -4,6 +4,6 @@
 #include<conio.h>
 #include<math.h>
 
-void auswahl_test();
+void auswahl_rechner();
 
 int auswahl_berechnung(int auswahl1);

@@ -9,7 +9,7 @@ void berechnung_prozent_zins()
     switch(gewaehltprozentzins)
     {
         case 1:
-            ausgabe_berechnung_prozent();
+            berechnung_prozent();
             bildschirmloeschen();
             break;
 
@@ -34,117 +34,13 @@ int auswahl_prozent_zins(int auswahlprozentzins)
     return auswahlprozentzins;
 }
 
-void ausgabe_berechnung_prozent()
-{
-    int auswahlprozent, gewaehltprozent;
 
-    gewaehltprozent = auswahl_berechnung_prozent(auswahlprozent);
 
-    switch(gewaehltprozent)
-    {
-        case 1:
-            ausgabe_grundwert_prozent();
-            break;
 
-        case 2:
-            ausgabe_prozentwert_prozent();
-            break;
 
-        case 3:
-            ausgabe_prozentsatz_prozent();
-            break;
-    }
-}
 
-int auswahl_berechnung_prozent(int auswahlprozent)
-{
-    printf("\nBitte waehlen: ");
-    printf("\n1. Grundwert \n2. Prozentwert \n3. Prozentsatz \n\n");
-    scanf("%d", &auswahlprozent);
 
-    return auswahlprozent;
-}
 
-double einlesen_grundwert(double grundwert)
-{
-    printf("\nGrundwert --> ");
-    scanf("%lf", &grundwert);
-
-    return grundwert;
-}
-
-double einlesen_prozentwert(double prozentwert)
-{
-    printf("\nProzentwert --> ");
-    scanf("%lf", &prozentwert);
-
-    return prozentwert;
-}
-
-double einlesen_prozentsatz(double prozentsatz)
-{
-    printf("\nProzentsatz (in %%) --> ");
-    scanf("%lf", &prozentsatz);
-
-    return prozentsatz;
-}
-
-double berechnung_grundwert_prozent(double prozentwert, double prozentsatz)
-{
-    double result;
-
-    result = (prozentwert * 100) / prozentsatz;
-
-    return result;
-}
-
-void ausgabe_grundwert_prozent()
-{
-    double prozentwert, prozentsatz;
-
-    prozentwert = einlesen_prozentwert(prozentwert);
-    prozentsatz = einlesen_prozentsatz(prozentsatz);
-
-    printf("\nDer Grundwert betraegt: %.2lf", berechnung_grundwert_prozent(prozentwert, prozentsatz));
-}
-
-double berechnung_prozentwert_prozent(double grundwert, double prozentsatz)
-{
-    double result;
-
-    result = (grundwert * prozentsatz) / 100;
-
-    return result;
-}
-
-void ausgabe_prozentwert_prozent()
-{
-    double grundwert, prozentsatz;
-
-    grundwert = einlesen_grundwert(grundwert);
-    prozentsatz = einlesen_prozentsatz(prozentsatz);
-
-    printf("\nDer Prozentwert betraegt: %.2lf", berechnung_prozentwert_prozent(grundwert, prozentsatz));
-}
-
-double berechnung_prozentsatz_prozent(double grundwert, double prozentwert)
-{
-    double result;
-
-    result = (prozentwert * 100) / grundwert;
-
-    return result;
-}
-
-void ausgabe_prozentsatz_prozent()
-{
-    double grundwert, prozentwert;
-
-    grundwert = einlesen_grundwert(grundwert);
-    prozentwert = einlesen_prozentwert(prozentwert);
-
-    printf("\nDer Prozentsatz betraegt: %.2lf %%", berechnung_prozentsatz_prozent(grundwert, prozentwert));
-}
 
 void ausgabe_berechnung_zins()
 {

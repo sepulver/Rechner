@@ -1,4 +1,4 @@
-#include"prozent_zins_auswahl.h"
+#include"prozent_zins.h"
 
 int prozent_zins_main()
 {
@@ -10,7 +10,7 @@ int prozent_zins_main()
 
     auswahl_prozent_zins(auswahlprozentzins);
 
-    ausgabe_berechnung_prozent();
+    berechnung_prozent();
 
     auswahl_berechnung_prozent(auswahlprozent);
 

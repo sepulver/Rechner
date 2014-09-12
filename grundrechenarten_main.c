@@ -1,11 +1,11 @@
-#include "grundrechenarten_auswahl.h"
+#include"grundrechenarten.h"
 
 int grundrechenarten_main()
 {
     double zahl1, zahl2;
     int auswahlgrundrechenarten;
 
-    grundrechenarten();
+    berechnung_grundrechenarten();
 
     auswahl_grundrechenarten(auswahlgrundrechenarten);
 

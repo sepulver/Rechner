@@ -13,7 +13,7 @@ void ausgabe_volumen_kugel()
 {
     double radius;
 
-    radius = einlesen_radius(radius);
+    radius = einlesen_radius_kugel(radius);
 
     printf("\nDas Volumen betraegt: %.2lf", berechnung_volumen_kugel(radius));
 }

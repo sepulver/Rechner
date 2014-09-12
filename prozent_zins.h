@@ -2,22 +2,13 @@ void berechnung_prozent_zins();
 
 int auswahl_prozent_zins(int auswahlprozentzins);
 
-void ausgabe_berechnung_prozent();
 
-int auswahl_berechnung_prozent(int auswahlprozent);
 
-double einlesen_grundwert(double grundwertt);
-double einlesen_prozentwert(double prozentwert);
-double einlesen_prozentsatz(double prozentsatz);
 
-double berechnung_grundwert_prozent(double prozentwert, double prozentsatz);
-void ausgabe_grundwert_prozent();
 
-double berechnung_prozentwert_prozent(double grundwert, double prozentsatz);
-void ausgabe_prozentwert_prozent();
 
-double berechnung_prozentsatz_prozent(double grundwert, double prozentwert);
-void ausgabe_prozentsatz_prozent();
+
+
 
 void ausgabe_berechnung_zins();
 int auswahl_ausgabetyp_zins(int auswahlzinsart);
@@ -87,5 +78,3 @@ double berechnung_zaehler_jahre_zinseszins(double endkapital, double startkapita
 double berechnung_nenner_jahre_zinseszins(double zinssatz);
 double berechnung_ergebnis_jahre_zinseszins(double endkapital, double startkapital, double jahre);
 void ausgabe_jahre_zinseszins();
-
-void bildschirmloeschen();

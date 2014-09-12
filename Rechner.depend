@@ -4,25 +4,24 @@
 
 1410426214 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\grundrechenarten_auswahl.h
 
-1410419402 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\grundrechenarten_main.c
-	"grundrechenarten_auswahl.h"
+1410530102 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\grundrechenarten_main.c
+	"grundrechenarten.h"
 
 1410425900 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\koerper_auswahl.c
 	"koerper_auswahl.h"
 
 1410426162 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\koerper_auswahl.h
 
-1410425469 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\koerper_main.c
-	"koerper_auswahl.h"
-	"quader.h"
+1410530041 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\koerper_main.c
+	"koerper.h"
 
 1410419453 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent_zins_auswahl.c
 	"prozent_zins_auswahl.h"
 
 1410422554 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent_zins_auswahl.h
 
-1410419422 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent_zins_main.c
-	"prozent_zins_auswahl.h"
+1410530072 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent_zins_main.c
+	"prozent_zins.h"
 
 1410420631 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\rechner_auswahl.c
 	"rechner_auswahl.h"
@@ -34,13 +33,14 @@
 	<conio.h>
 	<math.h>
 
-1410505731 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\rechner_main.c
-	"grundrechenarten.h"
-	"koerper.h"
-	"prozent_zins.h"
-	"wzg.h"
+1410525493 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\rechner_main.c
 	"rechner.h"
 	"bildschirmloeschen.h"
+	"grundrechenarten.h"
+	"koerper.h"
+	"flaeche.h"
+	"prozent_zins.h"
+	"wzg.h"
 
 1410422560 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\weg_zeit_geschwindigkeit_auswahl.h
 
@@ -77,7 +77,7 @@
 
 1410436645 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\quader.h
 
-1410436627 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\quader.c
+1410525191 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\quader.c
 	"quader.h"
 
 1410424716 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\quader_ausgabe_volumen.h
@@ -250,33 +250,33 @@
 
 1410436074 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\quader_oberflaeche.h
 
-1410436372 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\quader_volumen.c
+1410518693 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\quader_volumen.c
 	"quader_volumen.h"
 	"quader_einlesen_werte.h"
 
-1410436213 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\quader_volumen.h
+1410525241 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\quader_volumen.h
 
-1410437121 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\grundrechenarten.c
+1410530096 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\grundrechenarten.c
 	"grundrechenarten.h"
 
-1410426214 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\grundrechenarten.h
+1410526233 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\grundrechenarten.h
 
-1410437100 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent_zins.c
+1410527740 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent_zins.c
 	"prozent_zins.h"
 
-1410422554 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent_zins.h
+1410527740 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent_zins.h
 
-1410504445 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\rechner.c
+1410530108 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\rechner.c
 	"rechner.h"
 
-1410419917 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\rechner.h
+1410525468 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\rechner.h
 	<stdio.h>
 	<stdlib.h>
 	<stdbool.h>
 	<conio.h>
 	<math.h>
 
-1410505255 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\koerper.c
+1410525203 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\koerper.c
 	"koerper.h"
 
 1410505701 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\koerper.h
@@ -286,10 +286,10 @@
 1410437032 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\wzg.c
 	"wzg.h"
 
-1410437402 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\wzg_main.c
+1410529910 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\wzg_main.c
 	"wzg.h"
 
-1410505565 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kreis.c
+1410516016 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kreis.c
 	"kreis.h"
 
 1410505603 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kreis.h
@@ -316,4 +316,87 @@
 	"kreis_einlesen_werte.h"
 
 1410505697 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kreis_umfang.h
+
+1410530012 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\flaeche.c
+	"flaeche.h"
+
+1410515763 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\flaeche.h
+
+1410530030 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\flaeche_main.c
+	"flaeche.h"
+
+1410530148 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\grundrechenarten_addition.c
+	"grundrechenarten_addition.h"
+	"grundrechenarten_einlesen_werte.h"
+
+1410525994 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\grundrechenarten_addition.h
+
+1410530151 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\grundrechenarten_division.c
+	"grundrechenarten_division.h"
+	"grundrechenarten_einlesen_werte.h"
+
+1410526230 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\grundrechenarten_division.h
+
+1410525721 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\grundrechenarten_einlesen_werte.c
+	"grundrechenarten_einlesen_werte.h"
+
+1410525791 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\grundrechenarten_einlesen_werte.h
+
+1410530156 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\grundrechenarten_multiplikation.c
+	"grundrechenarten_multiplikation.h"
+	"grundrechenarten_einlesen_werte.h"
+
+1410526170 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\grundrechenarten_multiplikation.h
+
+1410530159 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\grundrechenarten_subtraktion.c
+	"grundrechenarten_subtraktion.h"
+	"grundrechenarten_einlesen_werte.h"
+
+1410526102 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\grundrechenarten_subtraktion.h
+
+1410525248 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kugel.c
+	"kugel.h"
+
+1410528114 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kugel.h
+
+1410524767 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kugel_einlesen_werte.c
+	"kugel_einlesen_werte.h"
+
+1410524778 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kugel_einlesen_werte.h
+
+1410524828 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kugel_oberflaeche.c
+	"kugel_oberflaeche.h"
+	"kugel_einlesen_werte.h"
+
+1410518117 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kugel_oberflaeche.h
+
+1410524837 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kugel_volumen.c
+	"kugel_volumen.h"
+
+1410523100 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kugel_volumen.h
+
+1410526568 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent.c
+	"prozent.h"
+
+1410526565 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent.h
+
+1410526759 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent_einlesen_werte.c
+	"prozent_einlesen_werte.h"
+
+1410526790 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent_einlesen_werte.h
+
+1410526697 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent_grundwert.c
+	"prozent_grundwert.h"
+
+1410526715 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent_grundwert.h
+
+1410527119 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent_prozentsatz.c
+	"prozent_prozentsatz.h"
+
+1410527132 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent_prozentsatz.h
+
+1410526871 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent_prozentwert.c
+	"prozent_prozentwert.h"
+
+1410526916 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent_prozentwert.h
 

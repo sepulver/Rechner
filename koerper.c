@@ -13,7 +13,7 @@ void berechnung_koerper()
             break;
 
         case 2:
-            quader();
+            berechnung_quader();
             break;
 
         case 3:

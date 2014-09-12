@@ -6,19 +6,19 @@ void berechnung_flaeche()
 
     gewaehltflaechenberechnung = auswahl_flaechenberechnung(auswahlflaechenberechnung);
 
-    switch(gewaehltflaechenrberechnung)
+    switch(gewaehltflaechenberechnung)
     {
         case 1:
             berechnung_kreis();
             break;
 
-        case 2:
+     /*   case 2:
             berechnung_viereck();
             break;
 
         case 3:
             berechnung_dreieck();
-            break;
+            break;*/
     }
 }
 
