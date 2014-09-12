@@ -42,84 +42,8 @@ int auswahl_prozent_zins(int auswahlprozentzins)
 
 
 
-void ausgabe_berechnung_zins()
-{
-    int auswahlzinsart, gewaehltzinsart;
 
-    gewaehltzinsart = auswahl_ausgabetyp_zins(auswahlzinsart);
 
-    switch(gewaehltzinsart)
-    {
-        case 1:
-            ausgabe_auswahl_jahreszins();
-            break;
-
-        case 2:
-            ausgabe_auswahl_monatszins();
-            break;
-
-        case 3:
-            ausgabe_auswahl_tageszins();
-            break;
-    }
-}
-
-int auswahl_ausgabetyp_zins(int auswahlzinsart)
-{
-    printf("\nBitte waehlen: \n");
-    printf("1. Jahreszins \n2. Monatszins \n3. Tageszins\n\n");
-    scanf("%d", &auswahlzinsart);
-
-    return auswahlzinsart;
-}
-
-double einlesen_zinsen(double zinsen)
-{
-    printf("\nZinsen --> ");
-    scanf("%lf", &zinsen);
-
-    return zinsen;
-}
-
-double einlesen_kapital(double kapital)
-{
-    printf("\nKapital --> ");
-    scanf("%lf", &kapital);
-
-    return kapital;
-}
-
-double einlesen_zinssatz(double zinssatz)
-{
-    printf("\nZinssatz (in %%) --> ");
-    scanf("%lf", &zinssatz);
-
-    return zinssatz;
-}
-
-double einlesen_jahre(double jahre)
-{
-    printf("\nJahre --> ");
-    scanf("%lf", &jahre);
-
-    return jahre;
-}
-
-double einlesen_monate(double monate)
-{
-    printf("\nMonate --> ");
-    scanf("%lf", &monate);
-
-    return monate;
-}
-
-double einlesen_tage(double tage)
-{
-    printf("\nTage --> ");
-    scanf("%lf", &tage);
-
-    return tage;
-}
 
 void ausgabe_auswahl_jahreszins()
 {

@@ -10,15 +10,9 @@ int auswahl_prozent_zins(int auswahlprozentzins);
 
 
 
-void ausgabe_berechnung_zins();
-int auswahl_ausgabetyp_zins(int auswahlzinsart);
 
-double einlesen_zinsen(double zinsen);
-double einlesen_kapital(double kapital);
-double einlesen_zinssatz(double zinssatz);
-double einlesen_jahre(double jahre);
-double einlesen_monate(double monate);
-double einlesen_tage(double tage);
+
+
 
 void ausgabe_auswahl_jahreszins();
 int auswahl_jahreszins(int auswahljahreszins);

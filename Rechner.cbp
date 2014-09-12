@@ -35,13 +35,40 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="bildschirmloeschen.h" />
+		<Unit filename="flaeche.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="flaeche.h" />
+		<Unit filename="flaeche_main.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="grundrechenarten.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="grundrechenarten.h" />
+		<Unit filename="grundrechenarten_addition.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="grundrechenarten_addition.h" />
+		<Unit filename="grundrechenarten_division.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="grundrechenarten_division.h" />
+		<Unit filename="grundrechenarten_einlesen_werte.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="grundrechenarten_einlesen_werte.h" />
 		<Unit filename="grundrechenarten_main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="grundrechenarten_multiplikation.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="grundrechenarten_multiplikation.h" />
+		<Unit filename="grundrechenarten_subtraktion.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="grundrechenarten_subtraktion.h" />
 		<Unit filename="kegel.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -77,6 +104,62 @@
 		<Unit filename="koerper_main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="kreis.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="kreis.h" />
+		<Unit filename="kreis_durchmesser.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="kreis_durchmesser.h" />
+		<Unit filename="kreis_einlesen_werte.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="kreis_einlesen_werte.h" />
+		<Unit filename="kreis_flaeche.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="kreis_flaeche.h" />
+		<Unit filename="kreis_umfang.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="kreis_umfang.h" />
+		<Unit filename="kugel.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="kugel.h" />
+		<Unit filename="kugel_einlesen_werte.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="kugel_einlesen_werte.h" />
+		<Unit filename="kugel_oberflaeche.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="kugel_oberflaeche.h" />
+		<Unit filename="kugel_volumen.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="kugel_volumen.h" />
+		<Unit filename="prozent.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="prozent.h" />
+		<Unit filename="prozent_einlesen_werte.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="prozent_einlesen_werte.h" />
+		<Unit filename="prozent_grundwert.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="prozent_grundwert.h" />
+		<Unit filename="prozent_prozentsatz.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="prozent_prozentsatz.h" />
+		<Unit filename="prozent_prozentwert.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="prozent_prozentwert.h" />
 		<Unit filename="prozent_zins.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -118,6 +201,14 @@
 		<Unit filename="wzg_main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="zins.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zins.h" />
+		<Unit filename="zins_einlesen_werte.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zins_einlesen_werte.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
