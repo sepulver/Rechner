@@ -33,7 +33,7 @@ int koerper_main()
     einlesen_breite(breite);
     einlesen_hoehe(hoehe);
 
-    berechnug_volumen_quader(laenge, breite, hoehe);
+    berechnung_volumen_quader(laenge, breite, hoehe);
     ausgabe_volumen_quader();
 
     berechnung_grundflaeche_quader(laenge, breite);

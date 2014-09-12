@@ -1,5 +1,6 @@
 #include"grundrechenarten.h"
 #include"koerper.h"
+#include"flaechen.h"
 #include"prozent_zins.h"
 #include"wzg.h"
 #include"rechner.h"

@@ -4,7 +4,7 @@ void quader()
 {
     int auswahlquader, gewaehltquader;
 
-    gewaehltquader = auswahl_volumen_grundflaeche_oberflaeche_quader(auswahlquader);
+    gewaehltquader = auswahl_berechnung_quader(auswahlquader);
 
     switch(gewaehltquader)
     {
@@ -24,7 +24,7 @@ void quader()
     }
 }
 
-int auswahl_volumen_grundflaeche_oberflaeche_quader(int auswahlquader)
+int auswahl_volumen_berechnung_quader(int auswahlquader)
 {
     printf("\nBitte waehlen:\n");
     printf("1. Volumen \n2. Grundflaeche \n3. Oberflaeche\n\n");

@@ -31,39 +31,91 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="grundrechenarten_auswahl.c">
+		<Unit filename="bildschirmloeschen.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="grundrechenarten_auswahl.h" />
+		<Unit filename="bildschirmloeschen.h" />
+		<Unit filename="grundrechenarten.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="grundrechenarten.h" />
 		<Unit filename="grundrechenarten_main.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="koerper_auswahl.c">
+		<Unit filename="kegel.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="koerper_auswahl.h" />
+		<Unit filename="kegel.h" />
+		<Unit filename="kegel_einlesen_werte.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="kegel_einlesen_werte.h" />
+		<Unit filename="kegel_grundflaeche.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="kegel_grundflaeche.h" />
+		<Unit filename="kegel_mantelflaeche.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="kegel_mantelflaeche.h" />
+		<Unit filename="kegel_oberflaeche.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="kegel_oberflaeche.h" />
+		<Unit filename="kegel_seitenhoehe.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="kegel_seitenhoehe.h" />
+		<Unit filename="kegel_volumen.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="kegel_volumen.h" />
+		<Unit filename="koerper.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="koerper.h" />
 		<Unit filename="koerper_main.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="prozent_zins_auswahl.c">
+		<Unit filename="prozent_zins.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="prozent_zins_auswahl.h" />
+		<Unit filename="prozent_zins.h" />
 		<Unit filename="prozent_zins_main.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="rechner_auswahl.c">
+		<Unit filename="quader.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="rechner_auswahl.h" />
+		<Unit filename="quader.h" />
+		<Unit filename="quader_einlesen_werte.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="quader_einlesen_werte.h" />
+		<Unit filename="quader_grundflaeche.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="quader_grundflaeche.h" />
+		<Unit filename="quader_oberflaeche.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="quader_oberflaeche.h" />
+		<Unit filename="quader_volumen.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="quader_volumen.h" />
+		<Unit filename="rechner.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="rechner.h" />
 		<Unit filename="rechner_main.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="weg_zeit_geschwindigkeit_auswahl.c">
+		<Unit filename="wzg.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="weg_zeit_geschwindigkeit_auswahl.h" />
-		<Unit filename="weg_zeit_geschwindigkeit_main.c">
+		<Unit filename="wzg.h" />
+		<Unit filename="wzg_main.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions>
