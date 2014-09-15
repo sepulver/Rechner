@@ -8,11 +8,9 @@
 
 int main()
 {
-    int auswahl1;
-
     auswahl_rechner();
-
-    auswahl_berechnung(auswahl1);
 
     return 0;
 }
+
+

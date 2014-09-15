@@ -33,7 +33,7 @@
 	<conio.h>
 	<math.h>
 
-1410525493 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\rechner_main.c
+1410762959 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\rechner_main.c
 	"rechner.h"
 	"bildschirmloeschen.h"
 	"grundrechenarten.h"
@@ -261,15 +261,15 @@
 
 1410526233 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\grundrechenarten.h
 
-1410527740 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent_zins.c
+1410536305 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent_zins.c
 	"prozent_zins.h"
 
-1410527740 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent_zins.h
+1410536304 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent_zins.h
 
-1410530108 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\rechner.c
+1410761926 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\rechner.c
 	"rechner.h"
 
-1410525468 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\rechner.h
+1410761926 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\rechner.h
 	<stdio.h>
 	<stdlib.h>
 	<stdbool.h>
@@ -399,4 +399,14 @@
 	"prozent_prozentwert.h"
 
 1410526916 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent_prozentwert.h
+
+1410532836 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\zins.c
+	"zins.h"
+
+1410532861 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\zins.h
+
+1410532913 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\zins_einlesen_werte.c
+	"zins_einlesen_werte.h"
+
+1410532935 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\zins_einlesen_werte.h
 
