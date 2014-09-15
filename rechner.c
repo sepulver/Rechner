@@ -43,7 +43,8 @@ int auswahl_berechnung(int auswahlberechnung)
 {
     printf("Rechner\n\n");
     printf("Bitte waehlen:\n");
-    printf("1. Grundrechenarten \n2. Weg / Zeit / Geschwindigkeit \n3. Flaechenberechnung \n4. Koerperberechnung \n5. Prozente und Zinsen berechnen \n6. Beenden\n\n");
+    printf("1. Grundrechenarten \n2. Weg / Zeit / Geschwindigkeit berechnen \n3. Flaechenberechnung");
+    printf("\n4. Koerperberechnung \n5. Prozente und Zinsen berechnen \n6. Beenden\n\n");
     scanf("%d", &auswahlberechnung);
 
     return auswahlberechnung;

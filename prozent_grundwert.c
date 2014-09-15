@@ -1,4 +1,5 @@
 #include"prozent_grundwert.h"
+#include"prozent_einlesen_werte.h"
 
 double berechnung_grundwert_prozent(double prozentwert, double prozentsatz)
 {

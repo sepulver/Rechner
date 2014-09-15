@@ -122,7 +122,7 @@
 
 1410426144 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\bildschirmloeschen.h
 
-1410436581 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel.c
+1410763085 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel.c
 	"kegel.h"
 
 1410436583 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel.h
@@ -199,13 +199,13 @@
 
 1410429670 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_einlesen_werte.h
 
-1410429920 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_grundflaeche.c
+1410763117 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_grundflaeche.c
 	"kegel_grundflaeche.h"
 	"kegel_einlesen_werte.h"
 
 1410429499 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_grundflaeche.h
 
-1410429808 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_mantelflaeche.c
+1410763114 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_mantelflaeche.c
 	"kegel_mantelflaeche.h"
 	"kegel_seitenhoehe.h"
 	"kegel_einlesen_werte.h"
@@ -214,7 +214,7 @@
 
 1410430105 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_seitenhoehe.h
 
-1410429937 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_oberflaeche.c
+1410763110 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_oberflaeche.c
 	"kegel_oberflaeche.h"
 	"kegel_grundflaeche.h"
 	"kegel_mantelflaeche.h"
@@ -222,11 +222,11 @@
 
 1410429328 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_oberflaeche.h
 
-1410430077 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_seitenhoehe.c
+1410763091 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_seitenhoehe.c
 	"kegel_seitenhoehe.h"
 	"kegel_einlesen_werte.h"
 
-1410430248 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_volumen.c
+1410763089 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kegel_volumen.c
 	"kegel_volumen.h"
 	"kegel_grundflaeche.h"
 	"kegel_einlesen_werte.h"
@@ -261,12 +261,12 @@
 
 1410526233 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\grundrechenarten.h
 
-1410536305 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent_zins.c
+1410765386 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent_zins.c
 	"prozent_zins.h"
 
-1410536304 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent_zins.h
+1410765380 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent_zins.h
 
-1410761926 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\rechner.c
+1410763465 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\rechner.c
 	"rechner.h"
 
 1410761926 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\rechner.h
@@ -281,9 +281,9 @@
 
 1410505701 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\koerper.h
 
-1410422560 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\wzg.h
+1410766186 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\wzg.h
 
-1410437032 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\wzg.c
+1410766190 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\wzg.c
 	"wzg.h"
 
 1410529910 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\wzg_main.c
@@ -385,18 +385,21 @@
 
 1410526790 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent_einlesen_werte.h
 
-1410526697 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent_grundwert.c
+1410765551 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent_grundwert.c
 	"prozent_grundwert.h"
+	"prozent_einlesen_werte.h"
 
 1410526715 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent_grundwert.h
 
-1410527119 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent_prozentsatz.c
+1410765558 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent_prozentsatz.c
 	"prozent_prozentsatz.h"
+	"prozent_einlesen_werte.h"
 
 1410527132 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent_prozentsatz.h
 
-1410526871 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent_prozentwert.c
+1410765560 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent_prozentwert.c
 	"prozent_prozentwert.h"
+	"prozent_einlesen_werte.h"
 
 1410526916 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent_prozentwert.h
 
@@ -409,4 +412,112 @@
 	"zins_einlesen_werte.h"
 
 1410532935 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\zins_einlesen_werte.h
+
+1410763916 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\zins_jahreszins.c
+	"zins_jahreszins.h"
+
+1410763940 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\zins_jahreszins.h
+
+1410764450 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\zins_monatszins.c
+	"zins_monatszins.h"
+
+1410764395 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\zins_monatszins.h
+
+1410764871 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\zins_tageszins.c
+	"zins_tageszins.h"
+
+1410764822 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\zins_tageszins.h
+
+1410765046 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\zinseszins.c
+	"zinseszins.h"
+
+1410765029 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\zinseszins.h
+
+1410765082 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\zinseszins_einlesen_werte.c
+	"zinseszins_einlesen_werte.h"
+
+1410765096 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\zinseszins_einlesen_werte.h
+
+1410765466 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\zins_jahreszins_kapital.c
+	"zins_jahreszins_kapital.h"
+	"zins_einlesen_werte.h"
+
+1410764119 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\zins_jahreszins_kapital.h
+
+1410765471 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\zins_jahreszins_zinsen.c
+	"zins_jahreszins_zinsen.h"
+	"zins_einlesen_werte.h"
+
+1410764037 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\zins_jahreszins_zinsen.h
+
+1410765469 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\zins_jahreszins_zinssatz.c
+	"zins_jahreszins_zinssatz.h"
+	"zins_einlesen_werte.h"
+
+1410764198 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\zins_jahreszins_zinssatz.h
+
+1410765502 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\zins_monatszins_kapital.c
+	"zins_monatszins_kapital.h"
+	"zins_einlesen_werte.h"
+
+1410764416 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\zins_monatszins_kapital.h
+
+1410765493 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\zins_monatszins_zinsen.c
+	"zins_monatszins_zinsen.h"
+	"zins_einlesen_werte.h"
+
+1410764410 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\zins_monatszins_zinsen.h
+
+1410765487 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\zins_monatszins_zinssatz.c
+	"zins_monatszins_zinssatz.h"
+	"zins_einlesen_werte.h"
+
+1410764422 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\zins_monatszins_zinssatz.h
+
+1410765491 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\zins_tageszins_kapital.c
+	"zins_tageszins_kapital.h"
+	"zins_einlesen_werte.h"
+
+1410764837 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\zins_tageszins_kapital.h
+
+1410765499 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\zins_tageszins_zinsen.c
+	"zins_tageszins_zinsen.h"
+	"zins_einlesen_werte.h"
+
+1410764832 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\zins_tageszins_zinsen.h
+
+1410765488 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\zins_tageszins_zinssatz.c
+	"zins_tageszins_zinssatz.h"
+	"zins_einlesen_werte.h"
+
+1410764843 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\zins_tageszins_zinssatz.h
+
+1410765441 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\zinseszins_endkapital.c
+	"zinseszins_endkapital.h"
+	"zinseszins_einlesen_werte.h"
+
+1410765161 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\zinseszins_endkapital.h
+
+1410765444 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\zinseszins_jahre.c
+	"zinseszins_jahre.h"
+	"zinseszins_einlesen_werte.h"
+
+1410765375 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\zinseszins_jahre.h
+
+1410765420 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\zinseszins_startkapital.c
+	"zinseszins_startkapital.h"
+	"zinseszins_einlesen_werte.h"
+
+1410765204 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\zinseszins_startkapital.h
+
+1410765436 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\zinseszins_zinssatz.c
+	"zinseszins_zinssatz.h"
+	"zinseszins_einlesen_werte.h"
+
+1410765301 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\zinseszins_zinssatz.h
+
+1410765949 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\wzg_einlesen_werte.c
+	"wzg_einlesen_werte.h"
+
+1410765977 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\wzg_einlesen_werte.h
 
