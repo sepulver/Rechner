@@ -198,9 +198,25 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="wzg.h" />
+		<Unit filename="wzg_einlesen_werte.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="wzg_einlesen_werte.h" />
+		<Unit filename="wzg_geschwindigkeit.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="wzg_geschwindigkeit.h" />
 		<Unit filename="wzg_main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="wzg_weg.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="wzg_weg.h" />
+		<Unit filename="wzg_zeit.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="wzg_zeit.h" />
 		<Unit filename="zins.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -209,6 +225,78 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="zins_einlesen_werte.h" />
+		<Unit filename="zins_jahreszins.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zins_jahreszins.h" />
+		<Unit filename="zins_jahreszins_kapital.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zins_jahreszins_kapital.h" />
+		<Unit filename="zins_jahreszins_zinsen.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zins_jahreszins_zinsen.h" />
+		<Unit filename="zins_jahreszins_zinssatz.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zins_jahreszins_zinssatz.h" />
+		<Unit filename="zins_monatszins.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zins_monatszins.h" />
+		<Unit filename="zins_monatszins_kapital.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zins_monatszins_kapital.h" />
+		<Unit filename="zins_monatszins_zinsen.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zins_monatszins_zinsen.h" />
+		<Unit filename="zins_monatszins_zinssatz.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zins_monatszins_zinssatz.h" />
+		<Unit filename="zins_tageszins.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zins_tageszins.h" />
+		<Unit filename="zins_tageszins_kapital.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zins_tageszins_kapital.h" />
+		<Unit filename="zins_tageszins_zinsen.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zins_tageszins_zinsen.h" />
+		<Unit filename="zins_tageszins_zinssatz.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zins_tageszins_zinssatz.h" />
+		<Unit filename="zinseszins.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zinseszins.h" />
+		<Unit filename="zinseszins_einlesen_werte.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zinseszins_einlesen_werte.h" />
+		<Unit filename="zinseszins_endkapital.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zinseszins_endkapital.h" />
+		<Unit filename="zinseszins_jahre.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zinseszins_jahre.h" />
+		<Unit filename="zinseszins_startkapital.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zinseszins_startkapital.h" />
+		<Unit filename="zinseszins_zinssatz.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zinseszins_zinssatz.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />

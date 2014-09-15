@@ -2,9 +2,10 @@
 #include"bildschirmloeschen.h"
 #include"grundrechenarten.h"
 #include"koerper.h"
-#include"flaeche.h"
 #include"prozent_zins.h"
 #include"wzg.h"
+
+/*#include"flaeche.h"*/
 
 int main()
 {

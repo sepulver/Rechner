@@ -33,12 +33,11 @@
 	<conio.h>
 	<math.h>
 
-1410762959 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\rechner_main.c
+1410772743 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\rechner_main.c
 	"rechner.h"
 	"bildschirmloeschen.h"
 	"grundrechenarten.h"
 	"koerper.h"
-	"flaeche.h"
 	"prozent_zins.h"
 	"wzg.h"
 
@@ -259,17 +258,17 @@
 1410530096 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\grundrechenarten.c
 	"grundrechenarten.h"
 
-1410526233 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\grundrechenarten.h
+1410772414 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\grundrechenarten.h
 
 1410765386 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent_zins.c
 	"prozent_zins.h"
 
 1410765380 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent_zins.h
 
-1410763465 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\rechner.c
+1410772720 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\rechner.c
 	"rechner.h"
 
-1410761926 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\rechner.h
+1410772516 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\rechner.h
 	<stdio.h>
 	<stdlib.h>
 	<stdbool.h>
@@ -279,7 +278,7 @@
 1410525203 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\koerper.c
 	"koerper.h"
 
-1410505701 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\koerper.h
+1410772431 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\koerper.h
 
 1410766186 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\wzg.h
 
@@ -292,7 +291,7 @@
 1410516016 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kreis.c
 	"kreis.h"
 
-1410505603 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kreis.h
+1410772435 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kreis.h
 
 1410505558 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\kreis_durchmesser.c
 	"kreis_durchmesser.h"
@@ -320,12 +319,12 @@
 1410530012 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\flaeche.c
 	"flaeche.h"
 
-1410515763 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\flaeche.h
+1410772397 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\flaeche.h
 
-1410530030 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\flaeche_main.c
+1410768649 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\flaeche_main.c
 	"flaeche.h"
 
-1410530148 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\grundrechenarten_addition.c
+1410772381 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\grundrechenarten_addition.c
 	"grundrechenarten_addition.h"
 	"grundrechenarten_einlesen_werte.h"
 
@@ -378,7 +377,7 @@
 1410526568 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent.c
 	"prozent.h"
 
-1410526565 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent.h
+1410772449 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent.h
 
 1410526759 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\prozent_einlesen_werte.c
 	"prozent_einlesen_werte.h"
@@ -520,4 +519,22 @@
 	"wzg_einlesen_werte.h"
 
 1410765977 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\wzg_einlesen_werte.h
+
+1410766216 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\wzg_geschwindigkeit.c
+	"wzg_geschwindigkeit.h"
+	"wzg_einlesen_werte.h"
+
+1410766133 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\wzg_geschwindigkeit.h
+
+1410766213 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\wzg_weg.c
+	"wzg_weg.h"
+	"wzg_einlesen_werte.h"
+
+1410766082 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\wzg_weg.h
+
+1410766211 source:c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\wzg_zeit.c
+	"wzg_zeit.h"
+	"wzg_einlesen_werte.h"
+
+1410766182 c:\users\te.sovdwaer\documents\programmierenuebungen\eigene\rechner\wzg_zeit.h
 
